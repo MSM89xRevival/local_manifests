@@ -11,4 +11,10 @@
   <project path="hardware/motorola" name="android_hardware_motorola" remote="lineageos" />
   <project path="system/qcom" name="android_system_qcom" remote="lineageos" />
 
+  <!-- ProtonAOSP -->
+  <remove-project name="crdroidandroid/android_external_zlib" />
+  <project path="external/zlib-ng" name="android_external_zlib-ng" remote="proton" />
+  <remove-project name="crdroidandroid/android_external_jemalloc-new" />
+  <project path="external/jemalloc_new" name="android_external_jemalloc_new" remote="proton" />
+
 </manifest>

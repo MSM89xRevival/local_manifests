@@ -9,6 +9,10 @@
            fetch="https://github.com/MSM89xRevival/"
            revision="11.0" />
 
+  <remote name="proton"
+           fetch="https://github.com/ProtonAOSP/"
+           revision="rvc" />
+
   <!-- Snippets -->
   <include name="local_manifests/snippets/misc.xml" />
   <include name="local_manifests/snippets/deen.xml" />

@@ -1,7 +1,7 @@
 ## Sync the manifest:
 
 ```
-git clone https://github.com/MSM89xRevival/local_manifests -b 11.0 .repo/local_manifests
+git clone https://github.com/MSM89xRevival/local_manifests -b c11.0 .repo/local_manifests
 ```
 
 After that do 
