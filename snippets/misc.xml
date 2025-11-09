@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Additional -->
+  <project path="device/motorola/targets" name="android_device_motorola_targets" revision="master" remote="main" />
+  <project path="patches" name="android_patches" revision="master" remote="main" />
+  <project path="vendor/extras" name="android_vendor_extras" revision="master" remote="main" clone-depth="1" />
+
+  <!-- LineageOS -->
+  <project path="external/bson" name="android_external_bson" remote="lineageos" />
+  <project path="hardware/motorola" name="android_hardware_motorola" remote="lineageos" />
+  <project path="system/qcom" name="android_system_qcom" remote="lineageos" />
+
+</manifest>

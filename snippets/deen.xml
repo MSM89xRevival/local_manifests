@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Trees -->
+  <project path="device/motorola/deen" name="android_device_motorola_deen" remote="main" />
+  <project path="kernel/motorola/deen" name="android_kernel_motorola_deen" remote="main" />
+  <project path="vendor/motorola/deen" name="proprietary_vendor_motorola_deen" remote="main" />
+
+</manifest>

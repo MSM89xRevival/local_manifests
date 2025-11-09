@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="lineageos"
+           fetch="https://github.com/LineageOS/"
+           revision="lineage-18.1" />
+
+  <remote name="main"
+           fetch="https://github.com/MSM89xRevival/"
+           revision="11.0" />
+
+  <!-- Snippets -->
+  <include name="local_manifests/snippets/misc.xml" />
+  <include name="local_manifests/snippets/deen.xml" />
+
+</manifest>
